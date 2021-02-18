@@ -1,0 +1,12 @@
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/bin/Debug/netcoreapp3.1/CS131Project.deps.json
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/bin/Debug/netcoreapp3.1/CS131Project.runtimeconfig.json
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/bin/Debug/netcoreapp3.1/CS131Project.runtimeconfig.dev.json
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/bin/Debug/netcoreapp3.1/CS131Project.dll
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/bin/Debug/netcoreapp3.1/CS131Project.pdb
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/obj/Debug/netcoreapp3.1/CS131Project.csprojAssemblyReference.cache
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/obj/Debug/netcoreapp3.1/CS131Project.AssemblyInfoInputs.cache
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/obj/Debug/netcoreapp3.1/CS131Project.AssemblyInfo.cs
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/obj/Debug/netcoreapp3.1/CS131Project.csproj.CoreCompileInputs.cache
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/obj/Debug/netcoreapp3.1/CS131Project.dll
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/obj/Debug/netcoreapp3.1/CS131Project.pdb
+/Users/mariosilva/Desktop/cs131 project/CS131Project/CS131Project/obj/Debug/netcoreapp3.1/CS131Project.genruntimeconfig.cache
